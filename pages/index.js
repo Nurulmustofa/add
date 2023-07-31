@@ -10,13 +10,13 @@ export default function Home({ posts }) {
   return (
     <div className="container">
       <Head>
-        <title>Home</title>
+        <title>Homes</title>
         <link rel="icon" href="favicon.ico"></link>
       </Head>
 
       <main>
         <h1 className="title">
-           KKP Radar Cirebon
+           KKP Radar Cirebon ID
         </h1>
 
         
