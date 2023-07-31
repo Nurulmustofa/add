@@ -16,7 +16,7 @@ export default function Home({ posts }) {
 
       <main>
         <h1 className="title">
-          Kelompok KKP Radar Cirebon
+           KKP Radar Cirebon
         </h1>
 
         
